@@ -8,19 +8,18 @@ p{
   line-height: 0%;
 }
 
-@font-face
-    {
-    font-family: webfont;
-    src: url("Unkempt-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
+@font-face{
+  font-family: webfont;
+  src: url("Unkempt-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .mid{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: -220px 0 0 -220px; /* Apply negative top and left margins to truly center the element */
+  display: grid;
+  justify-content: center;
+  align-items: center;
+
 }
 
 .pink-text{
