@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://frieda-univer.me/all-projects.html</loc>
+        <loc>/all-projects.html</loc>
     </url>
     <url>
-        <loc>https://frieda-univer.me/example.html</loc>
+        <loc>/example.html</loc>
     </url>
     <url>
-        <loc>https://frieda-univer.me/</loc>
+        <loc>/for alive.html</loc>
     </url>
     <url>
-        <loc>https://frieda-univer.me/while_alive.html</loc>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/while_alive.html</loc>
     </url>
 </urlset>
