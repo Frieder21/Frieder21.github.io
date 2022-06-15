@@ -1,0 +1,44 @@
+.overlay:hover #footer {
+  height: 175px;
+}
+
+#footer {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 0px;
+  transition: .2s ease;
+  overflow: hidden;
+  left: 0;
+  right: 0;
+}
+
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.text-center {
+  text-align: center!important;
+}
+
+.bottom-0 {
+  bottom: 0!important;
+}
+
+.position-absolute {
+  position: absolute!important;
+}
+
+.fixed-bottom {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.overlay {
+  height: 25px;
+  background: var(--bs-gray-900);
+}
+
